@@ -106,29 +106,20 @@ VS Code      → Development
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 
-<div align="center">
+---
 
-Building > Talking
+## 📊 GitHub
 
-<br>
+**Building > Talking**
 
-Repositories • Projects • Experiments • Open Source
+`Repositories` • `Projects` • `Experiments` • `Open Source`
 
-</div>
+---
 
-<div align="center">
+## 🤝 Connect
 
-GitHub
+**GitHub:** [ptkgr8-stack](https://github.com/ptkgr8-stack)
 
-github.com/ptkgr8-stack
+---
 
-</div>
-
-<div align="center">
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║           BUILD SOMETHING WORTH USING.              ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-Code • Build • Learn • Repeat ⚡
-</div> ```
+### ⚡ Code • Build • Learn • Repeat
