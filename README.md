@@ -10,7 +10,7 @@
 
 ---
 
-## `01 // WHOAMI`
+
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -26,12 +26,12 @@
 └──────────────────────────────────────────────────────────────┘
 
 
-→ Artificial Intelligence
-→ Full-Stack Development
-→ Cybersecurity
-→ Mobile Development
-→ Offline-first Systems
-→ Emerging Technologies
+🤖  Artificial Intelligence
+💻  Full-Stack Development
+🔐  Cybersecurity
+📱  Mobile Development
+🧠  Machine Learning
+⚙️  Systems & Emerging Technologies
 
 
 ┌──────────────────────────────────────────────────────────────┐
@@ -51,19 +51,29 @@
 
 
 Languages
-<p> <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" /> </p>
+Python       ████████████████████
+Dart         ███████████████
+JavaScript   █████████████
+TypeScript   ███████████
+C++          █████████
 
 
 Development
-<p> <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B" /> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF" /> </p>
-
+Flutter      → Mobile Development
+React        → Frontend
+Flask        → Backend
 
 AI & Databases
-<p> <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" /> <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" /> <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" /> </p>
-
+PyTorch      → Machine Learning
+PostgreSQL   → Server Database
+SQLite       → Local Database
+Google ML Kit → OCR
 
 Tools
-<p> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" /> </p>
+Git          → Version Control
+GitHub       → Collaboration
+Linux        → Development Environment
+VS Code      → Development
 
 
                   ┌───────────┐
@@ -85,14 +95,34 @@ Tools
                         └──────────→ REPEAT
 
 
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=ptkgr8-stack&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptkgr8-stack&layout=compact&theme=github_dark&hide_border=true" /> </div>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Artificial Intelligence        ███████████████░░░            │
+│  Full-Stack Development         █████████████████░            │
+│  Cybersecurity                  ████████████░░░░░              │
+│  Mobile Development             ███████████████░░░            │
+│  Machine Learning               ███████████░░░░░░              │
+│  Systems                        █████████░░░░░░░░              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
+<div align="center">
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ptkgr8-stack&theme=github-dark-blue&hide_border=true" /> </div>
+Building > Talking
 
+<br>
 
-<div align="center"> <a href="https://github.com/ptkgr8-stack"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+Repositories • Projects • Experiments • Open Source
 
+</div>
+
+<div align="center">
+
+GitHub
+
+github.com/ptkgr8-stack
+
+</div>
 
 <div align="center">
 ╔══════════════════════════════════════════════════════╗
