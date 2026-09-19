@@ -119,8 +119,6 @@ Currently learning, building, breaking things, fixing them and shipping again.
 
 ---
 
-# `> Featured_project`
-
 # `> featured_project`
 
 ## 🧳 MUSUBI
@@ -157,6 +155,7 @@ SIMPLIFY SETTLEMENT
 KEEP EVERYTHING IN SYNC
 
 ---
+```
 
 # `> other_work`
 
