@@ -6,7 +6,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./light.svg" width="100%" alt="Prateek Shrivastav — VISUAL.MAP">
+    <img src="./dark.svg" width="100%" alt="Prateek Shrivastav — VISUAL.MAP">
   </picture>
 </p>
 
@@ -235,38 +235,23 @@ Security Alert
 
 # `> github_analytics`
 
-<p align="center">
-
-<!-- PHASE 2: Replace these with the self-hosted stats instance
-     after Vercel deployment. -->
-
-</p>
-
 ### GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ptkgr8-stack&theme=dark&hide_border=true"
+    src="https://github-readme-stats-three-silk-40.vercel.app/api?username=ptkgr8-stack&show_icons=true&hide_rank=true&theme=tokyonight&bg_color=0D1117&title_color=8B7CFF&icon_color=8B7CFF&text_color=C9D1D9&border_color=30363D"
     width="100%"
-    alt="GitHub Streak"
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ptkgr8-stack&show_icons=true&hide_rank=true&theme=dark&hide_border=true"
-    width="49%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptkgr8-stack&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats-three-silk-40.vercel.app/api/top-langs/?username=ptkgr8-stack&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=8B7CFF&icon_color=8B7CFF&text_color=C9D1D9&border_color=30363D"
     width="49%"
     alt="Top Languages"
   />
 </p>
-
-> **Note:** These are temporary public-instance cards for preview purposes.  
-> They will be replaced with the **self-hosted GitHub Readme Stats instance** during Phase 2.
 
 ---
 
@@ -274,7 +259,7 @@ Security Alert
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ptkgr8-stack&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ptkgr8-stack&bg_color=0d1117&color=8B7CFF&line=8B7CFF&point=ffffff&area=true&hide_border=true"
     width="100%"
     alt="Contribution Activity"
   />
@@ -284,27 +269,9 @@ Security Alert
 
 # `> contribution_snake`
 
-<!-- Phase 3 will generate these files automatically:
-     github-contribution-grid-snake.svg
-     github-contribution-grid-snake-dark.svg -->
+> 🚧 **Phase 3 — Contribution Snake coming next.**
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="./output/github-contribution-grid-snake.svg"
-      width="100%"
-      alt="GitHub Contribution Snake"
-    />
-  </picture>
-</p>
+The snake will be generated through GitHub Actions and served from the repository itself, so we don't put a broken external image here while Phase 3 is unfinished.
 
 ---
 
@@ -315,31 +282,22 @@ Security Alert
 <a href="https://github.com/ptkgr8-stack">
   <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 &nbsp;&nbsp;
 
-<!-- Add LinkedIn once the profile URL is confirmed -->
-<!--
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/prateek-shrivastav-093a51316/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-&nbsp;&nbsp;
--->
 
-<!-- Add Instagram once the profile URL is confirmed -->
-<!--
-<a href="YOUR_INSTAGRAM_URL">
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/_praateekk_/">
   <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-&nbsp;&nbsp;
--->
 
-<!-- Add Gmail once the email address is confirmed -->
-<!--
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
 &nbsp;&nbsp;
--->
+
+<img src="https://img.shields.io/badge/Discord-pratzzeyy-0A101F?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord">
 
 </p>
 
