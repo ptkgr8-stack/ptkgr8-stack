@@ -58,18 +58,61 @@ Currently learning, building, breaking things, fixing them and shipping again.
 
 ---
 
-## `> About_me`
+# `> about_me`
 
-- 🎓 B.Tech student in **Computer Science & Engineering — AI**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 📱 Building with **Flutter**
-- 🌐 Building web interfaces with **React**
-- ⚙️ Working with **Python & Flask**
-- 🗄️ Using **PostgreSQL & SQLite**
-- 🧠 Exploring **PyTorch, OCR & intelligent automation**
-- 🔐 Exploring **Cybersecurity & network security**
-- 🧩 Interested in **offline-first systems, synchronization & distributed systems**
-- 🚀 Building ideas into real products
+<p align="center">
+  <code>┌─ PROFILE.RUNTIME ───────────────────────────────────────────┐</code>
+</p>
+
+<p align="center">
+  <code>│</code> 🎓 <strong>EDUCATION</strong> &nbsp; <code>→</code> B.Tech · CSE — AI
+  <code>│</code>
+</p>
+
+<p align="center">
+  <code>│</code> 🤖 <strong>AI / ML</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Machine Learning · PyTorch · OCR
+  <code>│</code>
+</p>
+
+<p align="center">
+  <code>│</code> 📱 <strong>BUILD</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Flutter · React · Python · Flask
+  <code>│</code>
+</p>
+
+<p align="center">
+  <code>│</code> 🗄️ <strong>DATA</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> PostgreSQL · SQLite · REST APIs
+  <code>│</code>
+</p>
+
+<p align="center">
+  <code>│</code> 🔐 <strong>SECURITY</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Cybersecurity · Network Security
+  <code>│</code>
+</p>
+
+<p align="center">
+  <code>│</code> 🧩 <strong>SYSTEMS</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Offline-First · Sync · Distributed Systems
+  <code>│</code>
+</p>
+
+<p align="center">
+  <code>└─────────────────────────────────────────────────────────────┘</code>
+</p>
+
+<p align="center">
+  <code>></code>&nbsp; <strong>BUILDING</strong> <code>█</code><code>█</code><code>█</code><code>█</code><code>█</code><code>░</code><code>░</code>
+  &nbsp;&nbsp;
+  <strong>LEARNING</strong> <code>█</code><code>█</code><code>█</code><code>█</code><code>█</code><code>█</code><code>░</code>
+  &nbsp;&nbsp;
+  <strong>SHIPPING</strong> <code>█</code><code>█</code><code>█</code><code>█</code><code>█</code><code>░</code>
+</p>
+
+<p align="center">
+  <code>STATUS: ONLINE</code>
+  &nbsp;•&nbsp;
+  <code>MODE: BUILD</code>
+  &nbsp;•&nbsp;
+  <code>FOCUS: PRODUCT</code>
+</p>
 
 ---
 
