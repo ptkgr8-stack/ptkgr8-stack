@@ -57,6 +57,7 @@ I like exploring the intersection of **AI, software engineering, cybersecurity a
 Currently learning, building, breaking things, fixing them and shipping again.
 
 ---
+
 # `> about_me`
 
 <p align="center">
@@ -64,33 +65,27 @@ Currently learning, building, breaking things, fixing them and shipping again.
 </p>
 
 <p align="center">
-  <code>│</code> 🎓 <strong>EDUCATION</strong> &nbsp; <code>→</code> B.Tech · CSE — AI
-  <code>│</code>
+  <code>│</code> 🎓 <strong>EDUCATION</strong> &nbsp; <code>→</code> B.Tech · CSE — AI <code>│</code>
 </p>
 
 <p align="center">
-  <code>│</code> 🤖 <strong>AI / ML</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Machine Learning · PyTorch · OCR
-  <code>│</code>
+  <code>│</code> 🤖 <strong>AI / ML</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Machine Learning · PyTorch · OCR <code>│</code>
 </p>
 
 <p align="center">
-  <code>│</code> 📱 <strong>BUILD</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Flutter · React · Python · Flask
-  <code>│</code>
+  <code>│</code> 📱 <strong>BUILD</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Flutter · React · Python · Flask <code>│</code>
 </p>
 
 <p align="center">
-  <code>│</code> 🗄️ <strong>DATA</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> PostgreSQL · SQLite · REST APIs
-  <code>│</code>
+  <code>│</code> 🗄️ <strong>DATA</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> PostgreSQL · SQLite · REST APIs <code>│</code>
 </p>
 
 <p align="center">
-  <code>│</code> 🔐 <strong>SECURITY</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Cybersecurity · Network Security
-  <code>│</code>
+  <code>│</code> 🔐 <strong>SECURITY</strong> &nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Cybersecurity · Network Security <code>│</code>
 </p>
 
 <p align="center">
-  <code>│</code> 🧩 <strong>SYSTEMS</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Offline-First · Sync · Distributed Systems
-  <code>│</code>
+  <code>│</code> 🧩 <strong>SYSTEMS</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <code>→</code> Offline-First · Sync · Distributed Systems <code>│</code>
 </p>
 
 <p align="center">
@@ -99,17 +94,17 @@ Currently learning, building, breaking things, fixing them and shipping again.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=700&color=8B7CFF&center=true&vCenter=true&width=650&lines=%3E+BUILDING+PRODUCTS;%3E+LEARNING+NEW+SYSTEMS;%3E+EXPLORING+AI+%26+ML;%3E+SHIPPING+REAL+PROJECTS;%3E+STAY+CURIOUS"
-    alt="Currently building, learning and shipping"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=600&color=8B7CFF&center=true&vCenter=true&width=700&lines=%3E+SYSTEM.STATUS%3A+ONLINE;%3E+MODE%3A+BUILD;%3E+FOCUS%3A+PRODUCT;%3E+BUILDING+%7C+LEARNING+%7C+SHIPPING;%3E+%5F"
+    alt="Animated profile status"
   />
 </p>
 
 <p align="center">
-  <code>STATUS: ONLINE</code>
+  <code>● LIVE</code>
+  &nbsp;•&nbsp;
+  <code>SYSTEM.STATUS: ONLINE</code>
   &nbsp;•&nbsp;
   <code>MODE: BUILD</code>
-  &nbsp;•&nbsp;
-  <code>FOCUS: PRODUCT</code>
 </p>
 
 ---
