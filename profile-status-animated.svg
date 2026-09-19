@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
+  <rect width="1000" height="150" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="998" height="148" rx="17" fill="none" stroke="#30363d"/>
+
+  <!-- moving terminal scan -->
+  <rect x="35" y="24" width="170" height="2" fill="#8B7CFF" opacity=".7">
+    <animate attributeName="x" values="35;795;35" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- status -->
+  <circle cx="55" cy="58" r="5" fill="#8B7CFF">
+    <animate attributeName="r" values="4;7;4" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;.35;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="72" y="63" fill="#8B7CFF" font-family="monospace" font-size="13" font-weight="700">
+    SYSTEM.ONLINE
+  </text>
+
+  <text x="72" y="102" fill="#f0f6fc" font-family="monospace" font-size="24" font-weight="700">
+    Building + Learning + Shipping
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="548" y="80" width="3" height="27" fill="#8B7CFF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- rotating micro-ring -->
+  <circle cx="920" cy="75" r="29" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="920" cy="75" r="29" fill="none" stroke="#8B7CFF" stroke-width="2"
+          stroke-dasharray="8 14">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 920 75" to="360 920 75" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="920" y="79" text-anchor="middle" fill="#c9d1d9"
+        font-family="monospace" font-size="10">BUILD</text>
+
+  <!-- subtle lower activity line -->
+  <line x1="35" y1="130" x2="965" y2="130" stroke="#30363d"/>
+  <rect x="35" y="129" width="90" height="2" fill="#8B7CFF">
+    <animate attributeName="x" values="35;840;35" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
