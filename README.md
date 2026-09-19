@@ -255,18 +255,6 @@ Security Alert
 
 ---
 
-# `> contribution_activity`
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ptkgr8-stack&bg_color=0d1117&color=8B7CFF&line=8B7CFF&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Contribution Activity"
-  />
-</p>
-
----
-
 # `> contribution_snake`
 
 <p align="center">
@@ -286,6 +274,8 @@ Security Alert
     >
   </picture>
 </p>
+
+---
 <p align="center">
 
 <a href="https://github.com/ptkgr8-stack">
