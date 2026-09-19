@@ -153,9 +153,9 @@ UNDERSTAND THE BALANCE
 SIMPLIFY SETTLEMENT
      ↓
 KEEP EVERYTHING IN SYNC
-
----
 ```
+---
+
 
 # `> other_work`
 
