@@ -269,14 +269,23 @@ Security Alert
 
 # `> contribution_snake`
 
-> 🚧 **Phase 3 — Contribution Snake coming next.**
-
-The snake will be generated through GitHub Actions and served from the repository itself, so we don't put a broken external image here while Phase 3 is unfinished.
-
----
-
-# `> connect`
-
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ptkgr8-stack/ptkgr8-stack/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ptkgr8-stack/ptkgr8-stack/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/ptkgr8-stack/ptkgr8-stack/output/github-contribution-grid-snake-dark.svg"
+      width="100%"
+      alt="GitHub Contribution Snake"
+    >
+  </picture>
+</p>
 <p align="center">
 
 <a href="https://github.com/ptkgr8-stack">
