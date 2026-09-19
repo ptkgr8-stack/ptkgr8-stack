@@ -37,7 +37,7 @@
 
 ---
 
-## `> whoami`
+## `> WhoAmI`
 
 ```text
 NAME        Prateek Shrivastav
@@ -55,7 +55,7 @@ Currently learning, building, breaking things, fixing them and shipping again.
 
 ---
 
-## `> about_me`
+## `> About_me`
 
 - 🎓 B.Tech student in **Computer Science & Engineering — AI**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
@@ -70,7 +70,7 @@ Currently learning, building, breaking things, fixing them and shipping again.
 
 ---
 
-# `> tech_stack`
+# `> Tech_stack`
 
 ### Languages
 
@@ -119,47 +119,42 @@ Currently learning, building, breaking things, fixing them and shipping again.
 
 ---
 
+# `> Featured_project`
+
 # `> featured_project`
 
 ## 🧳 MUSUBI
 
+<p align="center">
+  <img
+    src="./musubi-featured.svg"
+    width="100%"
+    alt="MUSUBI — Private Product Build"
+  />
+</p>
+
 > **A smarter way to manage money during group trips.**
 
-MUSUBI is an **offline-first group expense and settlement platform** designed around the idea of making trip money management almost automatic.
+MUSUBI is an **offline-first group expense and settlement platform** built around one simple idea:
 
-Instead of manually calculating who paid what, who owes whom and how everyone should settle, MUSUBI brings expenses, payments, OCR and settlement into one system.
+> **Make group-trip money management feel almost automatic.**
 
-### Core idea
+Instead of making people manually track who paid, who owes and how to settle, MUSUBI brings the experience together into one place.
+
+### `> product_flow`
 
 ```text
 CREATE TRIP
      ↓
-INVITE FRIENDS
+CONNECT PEOPLE
      ↓
-ADD EXPENSES
+CAPTURE EXPENSES
      ↓
-UNDERSTAND WHO PAID
+UNDERSTAND THE BALANCE
      ↓
-CALCULATE WHO OWES WHOM
+SIMPLIFY SETTLEMENT
      ↓
-OPTIMIZE SETTLEMENTS
-     ↓
-SYNC EVERYTHING
-```
-
-### Built around
-
-- 📱 Flutter mobile application
-- 💾 SQLite local storage
-- 🤖 AI-assisted receipt processing
-- 🔎 Google ML Kit OCR
-- 🔄 CRDT-based offline synchronization
-- 📡 Bluetooth LE + Wi-Fi connectivity
-- 📍 GPS + BLE based safety capabilities
-- ⚙️ Flask backend
-- 🐘 PostgreSQL database
-
-> **Create. Connect. Explore.**
+KEEP EVERYTHING IN SYNC
 
 ---
 
@@ -200,7 +195,7 @@ Security Alert
 
 ---
 
-# `> engineering_interests`
+# `> Engineering_interests`
 
 <p align="center">
   <img
@@ -212,7 +207,7 @@ Security Alert
 
 ---
 
-# `> github_analytics`
+# `> Github_analytics`
 
 ### GitHub Activity
 
@@ -234,7 +229,7 @@ Security Alert
 
 ---
 
-# `> contribution_snake`
+# `> Contribution_snake`
 
 <p align="center">
   <picture>
@@ -256,7 +251,7 @@ Security Alert
 
 ---
 
-# `> connect`
+# `> Connect`
 
 <p align="center">
   <a href="https://github.com/ptkgr8-stack"><img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;
@@ -267,7 +262,7 @@ Security Alert
 
 ---
 
-# `> current_status`
+# `> Current_status`
 
 ~~~text
 ┌──────────────────────────────────────────────────────┐
