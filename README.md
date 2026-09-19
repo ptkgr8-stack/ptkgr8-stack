@@ -202,34 +202,13 @@ Security Alert
 
 # `> engineering_interests`
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  ARTIFICIAL INTELLIGENCE                                │
-│  ├── Machine Learning                                   │
-│  ├── Computer Vision                                    │
-│  ├── OCR                                                │
-│  └── Intelligent Automation                             │
-│                                                         │
-│  SOFTWARE ENGINEERING                                   │
-│  ├── Backend Systems                                    │
-│  ├── REST APIs                                          │
-│  ├── Databases                                          │
-│  └── Full-Stack Development                             │
-│                                                         │
-│  DISTRIBUTED SYSTEMS                                    │
-│  ├── Offline-First Architecture                         │
-│  ├── CRDT                                               │
-│  ├── Synchronization                                    │
-│  └── Mesh Connectivity                                  │
-│                                                         │
-│  CYBERSECURITY                                          │
-│  ├── Network Security                                   │
-│  ├── Authentication                                     │
-│  └── Security-Aware Systems                             │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img
+    src="./engineering-interests.svg"
+    width="100%"
+    alt="Engineering Interests"
+  />
+</p>
 
 ---
 
