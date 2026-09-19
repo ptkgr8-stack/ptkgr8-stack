@@ -16,7 +16,29 @@
 <!--                           IDENTITY                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">YO! I'M Prateek Shrivastav</h1>
+<p align="center">
+  <code>┌─ IDENTITY.INIT ─────────────────────────────┐</code>
+</p>
+
+<h1 align="center">
+  <code>&gt; HELLO, I'M PRATEEK SHRIVASTAV_</code>
+</h1>
+
+<p align="center">
+  <code>STATUS: ONLINE</code>
+  &nbsp;•&nbsp;
+  <code>ROLE: BUILDER</code>
+  &nbsp;•&nbsp;
+  <code>MODE: CREATE</code>
+</p>
+
+<p align="center">
+  <code>└──────────────────────────────────────────────┘</code>
+</p>
+
+<p align="center">
+  <strong>B.Tech Student · Developer · Builder</strong>
+</p>
 
 <p align="center">
   <strong>B.Tech Student · Developer · Builder</strong>
