@@ -16,20 +16,12 @@
 <!--                           IDENTITY                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <code>┌─ IDENTITY.INIT ─────────────────────────────┐</code>
-</p>
-
 <h1 align="center">
-  <code>&gt; HELLO, I'M PRATEEK SHRIVASTAV_</code>
+  Yo 👋! I'm Prateek Shrivastav
 </h1>
 
 <p align="center">
-  <code>STATUS: ONLINE</code>
-  &nbsp;•&nbsp;
-  <code>ROLE: BUILDER</code>
-  &nbsp;•&nbsp;
-  <code>MODE: CREATE</code>
+  <code>BUILDING</code> · <code>LEARNING</code> · <code>SHIPPING</code>
 </p>
 
 <p align="center">
