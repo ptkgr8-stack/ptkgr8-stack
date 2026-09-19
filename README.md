@@ -16,7 +16,7 @@
 <!--                           IDENTITY                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Prateek Shrivastav</h1>
+<h1 align="center">YO! I'M Prateek Shrivastav</h1>
 
 <p align="center">
   <strong>B.Tech Student · Developer · Builder</strong>
