@@ -57,7 +57,6 @@ I like exploring the intersection of **AI, software engineering, cybersecurity a
 Currently learning, building, breaking things, fixing them and shipping again.
 
 ---
-
 # `> about_me`
 
 <p align="center">
@@ -99,11 +98,10 @@ Currently learning, building, breaking things, fixing them and shipping again.
 </p>
 
 <p align="center">
-  <code>></code>&nbsp; <strong>BUILDING</strong> <code>█</code><code>█</code><code>█</code><code>█</code><code>█</code><code>░</code><code>░</code>
-  &nbsp;&nbsp;
-  <strong>LEARNING</strong> <code>█</code><code>█</code><code>█</code><code>█</code><code>█</code><code>█</code><code>░</code>
-  &nbsp;&nbsp;
-  <strong>SHIPPING</strong> <code>█</code><code>█</code><code>█</code><code>█</code><code>█</code><code>░</code>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=700&color=8B7CFF&center=true&vCenter=true&width=650&lines=%3E+BUILDING+PRODUCTS;%3E+LEARNING+NEW+SYSTEMS;%3E+EXPLORING+AI+%26+ML;%3E+SHIPPING+REAL+PROJECTS;%3E+STAY+CURIOUS"
+    alt="Currently building, learning and shipping"
+  />
 </p>
 
 <p align="center">
