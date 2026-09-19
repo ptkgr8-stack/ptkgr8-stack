@@ -23,7 +23,11 @@
 </p>
 
 <p align="center">
-  <code>Building + Learning + Shipping</code>
+  <img
+    src="./profile-status-animated.svg"
+    width="100%"
+    alt="Building, Learning, Shipping"
+  />
 </p>
 
 <p align="center">
@@ -36,7 +40,6 @@
 </p>
 
 ---
-
 ## `> WhoAmI`
 
 ```text
