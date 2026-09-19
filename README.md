@@ -276,6 +276,9 @@ Security Alert
 </p>
 
 ---
+
+# `> connect`
+
 <p align="center">
 
 <a href="https://github.com/ptkgr8-stack">
@@ -301,10 +304,6 @@ Security Alert
 </p>
 
 ---
-
-# `> current_status`
-
-```text
 ┌──────────────────────────────────────────────────────┐
 │                                                      │
 │  BUILDING       ████████████████████░░░░  80%        │
