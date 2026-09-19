@@ -119,7 +119,7 @@ Currently learning, building, breaking things, fixing them and shipping again.
 
 ---
 
-# `> featured_project`
+# `> MAIN_project`
 
 ## 🧳 MUSUBI
 
@@ -157,7 +157,7 @@ KEEP EVERYTHING IN SYNC
 ---
 
 
-# `> other_work`
+# `> OTHER_project`
 
 ### 🛡️ KavachX
 
