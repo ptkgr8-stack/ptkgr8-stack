@@ -280,28 +280,13 @@ Security Alert
 # `> connect`
 
 <p align="center">
-
-<a href="https://github.com/ptkgr8-stack">
-  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/prateek-shrivastav-093a51316/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/_praateekk_/">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Discord-pratzzeyy-0A101F?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord">
-
+  <a href="https://github.com/ptkgr8-stack"><img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/prateek-shrivastav-093a51316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_praateekk_/"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Discord-pratzzeyy-0A101F?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord">
 </p>
+
+---
 
 ---
 ┌──────────────────────────────────────────────────────┐
