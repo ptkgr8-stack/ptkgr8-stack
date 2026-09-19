@@ -16,32 +16,13 @@
 <!--                           IDENTITY                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-  Yo 👋! I'm Prateek Shrivastav
-</h1>
-
-<p align="center">
-  <code>BUILDING</code> · <code>LEARNING</code> · <code>SHIPPING</code>
-</p>
-
-<p align="center">
-  <code>└──────────────────────────────────────────────┘</code>
-</p>
-
+<h1 align="center">Yo 👋! I'm Prateek Shrivastav</h1>
 <p align="center">
   <strong>B.Tech Student · Developer · Builder</strong>
 </p>
 
 <p align="center">
-  <strong>B.Tech Student · Developer · Builder</strong>
-</p>
-
-<p align="center">
-  <img
-    src="./profile-status-animated.svg"
-    width="100%"
-    alt="Building, Learning, Shipping"
-  />
+  <code>Building + Learning + Shipping</code>
 </p>
 
 <p align="center">
